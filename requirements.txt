@@ -4,3 +4,4 @@ langchain-google-genai
 python-dotenv
 google-generativeai
 tavily-python
+langchain_community
