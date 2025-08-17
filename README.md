@@ -2,9 +2,14 @@
 
 Welcome to **AxisHealth.ai**, your intelligent fitness companion powered by advanced AI agents and adaptive planning. This project leverages Streamlit, LangChain, and Google Gemini to deliver a personalized dashboard for health, nutrition, and workout management.
 
+
 https://github.com/user-attachments/assets/10cd2f3a-bdf7-4d22-8214-b44d0100ed8e
 
----
+
+
+
+<img width="1668" height="712" alt="Axishealth -- Diagram" src="https://github.com/user-attachments/assets/05279995-a1a2-4575-84ca-659860803f37" />
+
 
 ## 🚀 Features
 
@@ -108,3 +113,4 @@ Developed by [Mr-aicoder](https://github.com/Mr-aicoder)
 
 
 ---
+
