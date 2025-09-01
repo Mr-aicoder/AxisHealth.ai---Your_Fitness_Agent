@@ -57,12 +57,15 @@ feature" triggered by a button on the dashboard (my_dashboard.py). This agent's
 logic can detect a plateau in the user's progress and will automatically re-invoke 
 the trainer_agent and nutritionist_agent with new instructions to generate a more 
 challenging, updated plan. 
-#### 3. Conversational AI and Dashboard: 
+#### 3. AI Chatbot: 
 The user can interact with the conversational 
 "AI Fitness Architect" on the dashboard. This agent can use tools like the 
 coach_agent.py for motivational support or search the web for external 
 knowledge to provide up-to-date information, making the platform a dynamic and 
 engaging companion for the user's fitness journey. 
+#### 3. Meal Calculator: 
+This agent helps in calculating the macro nutrients like Protein, Carbs, Fats and the overall calories in the meal.
+The meal calculator works by taking a user's text description of a meal and using a generative AI model to estimate the nutritional content. It analyzes the text, identifies ingredients, estimates quantities, and calculates the approximate calories, protein, carbohydrates, and fat, presenting the results in a formatted table.
 
 <img width="1668" height="712" alt="Axishealth -- Diagram" src="https://github.com/user-attachments/assets/05279995-a1a2-4575-84ca-659860803f37" />
 ---
@@ -150,6 +153,7 @@ Developed by [Mr-aicoder](https://github.com/Mr-aicoder)
 
 
 ---
+
 
 
 
