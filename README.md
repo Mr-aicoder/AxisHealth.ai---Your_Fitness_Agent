@@ -63,7 +63,7 @@ The user can interact with the conversational
 coach_agent.py for motivational support or search the web for external 
 knowledge to provide up-to-date information, making the platform a dynamic and 
 engaging companion for the user's fitness journey. 
-#### 3. Meal Calculator: 
+#### 4. Meal Calculator: 
 This agent helps in calculating the macro nutrients like Protein, Carbs, Fats and the overall calories in the meal.
 The meal calculator works by taking a user's text description of a meal and using a generative AI model to estimate the nutritional content. It analyzes the text, identifies ingredients, estimates quantities, and calculates the approximate calories, protein, carbohydrates, and fat, presenting the results in a formatted table.
 
@@ -153,6 +153,7 @@ Developed by [Mr-aicoder](https://github.com/Mr-aicoder)
 
 
 ---
+
 
 
 
