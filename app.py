@@ -39,4 +39,5 @@ else:
     if user_data and user_data.get("nutrition_plan"):
         st.switch_page("pages/my_dashboard.py")
     else:
+
         st.switch_page("pages/get_started.py")
