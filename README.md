@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/10cd2f3a-bdf7-4d22-8214-b44d0100ed8e
 # 🚀 Features
 
 ## Phase 1: User Onboarding and Health Metrics Analysis 
-This is the foundational phase where the system establishes a new user's profile and 
+This is the foundational phase where the system establishes a new user's profile and
 provides an initial health baseline.
 
 #### 1. Login and Profile Creation: 
@@ -153,6 +153,7 @@ Developed by [Mr-aicoder](https://github.com/Mr-aicoder)
 
 
 ---
+
 
 
 
