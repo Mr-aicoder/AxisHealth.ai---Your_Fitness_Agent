@@ -31,7 +31,7 @@ interpretation of their BMI and saves this to their profile, establishing a cruc
 health baseline.
 
 ## Phase 2: Core Plan Generation 
-Once the user's profile and initial health metrics are established, this phase focuses on 
+Once the user's profile and initial health metrics are established, this phase focuses on
 generating their personalized workout and nutrition plans. 
 #### 1. Workout Plan Generation: 
 On the bmi_analyzer.py page, the user can trigger the 
@@ -153,6 +153,7 @@ Developed by [Mr-aicoder](https://github.com/Mr-aicoder)
 
 
 ---
+
 
 
 
