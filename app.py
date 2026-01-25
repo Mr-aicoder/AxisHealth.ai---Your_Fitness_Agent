@@ -41,6 +41,6 @@ else:
     else:
 
         st.switch_page("pages/get_started.py")    
-  
+   
  
 
