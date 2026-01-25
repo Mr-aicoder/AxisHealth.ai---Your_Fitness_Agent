@@ -26,7 +26,7 @@ else:
     if st.sidebar.button("Logout"):
         for key in st.session_state.keys():
             del st.session_state[key]
-        st.rerun()
+        st.rerun() 
 
 st.title("Welcome to 🤖 AxisHealth.ai")
 st.caption("Your Fitness Agent")
