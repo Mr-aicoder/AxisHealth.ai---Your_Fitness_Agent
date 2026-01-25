@@ -29,7 +29,7 @@ else:
         st.rerun() 
 
 st.title("Welcome to 🤖 AxisHealth.ai")
-st.caption("Your Fitness Agent")
+st.caption("Your Fitness Agent") 
 
 if not st.session_state.user_id:
     st.header("Login to Get Started")
