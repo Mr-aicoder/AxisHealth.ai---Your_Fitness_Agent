@@ -33,7 +33,7 @@ st.caption("Your Fitness Agent")
 
 if not st.session_state.user_id:
     st.header("Login to Get Started")
-    st.markdown("Please use the sidebar to log in or register with a new User ID.") 
+    st.markdown("Please use the sidebar to log in or register with a new User ID.")  
 else:
     user_data = database.load_user_data(st.session_state.user_id)
     if user_data and user_data.get("nutrition_plan"):
