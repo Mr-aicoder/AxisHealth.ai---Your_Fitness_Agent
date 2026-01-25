@@ -14,7 +14,7 @@ st.sidebar.title("User Management")
 
 if not st.session_state.user_id:
     with st.sidebar.form(key='login_form'):
-        user_id_input = st.text_input("Enter User ID to Login or Register")  
+        user_id_input = st.text_input("Enter User ID to Login or Register")   
         login_button = st.form_submit_button("Login / Register") 
         if login_button and user_id_input:
             st.session_state['user_id'] = user_id_input
