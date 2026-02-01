@@ -3,5 +3,5 @@ langchain
 langchain-google-genai 
 python-dotenv 
 google-generativeai 
-tavily-python
+tavily-python 
 langchain_community
