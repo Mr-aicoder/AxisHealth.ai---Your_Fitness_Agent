@@ -1,6 +1,6 @@
 streamlit 
 langchain 
-langchain-google-genai 
+langchain-google-genai
 python-dotenv
 google-generativeai
 tavily-python
