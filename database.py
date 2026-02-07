@@ -1,6 +1,6 @@
 # database.py 
 import json 
-import os
+import os 
 
 DB_FILE = "user_db.json"
 
