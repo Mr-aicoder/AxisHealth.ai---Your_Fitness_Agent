@@ -1,6 +1,6 @@
 # app.py 
 import streamlit as st 
-import database
+import database 
 
 st.set_page_config(
     page_title="Welcome to AxisHealth.ai",
