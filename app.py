@@ -5,8 +5,8 @@ import database
 st.set_page_config(
     page_title="Welcome to AxisHealth.ai",
     page_icon="👋",
-) 
-   
+)
+
 if 'user_id' not in st.session_state:
     st.session_state['user_id'] = None
 
